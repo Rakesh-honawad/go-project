@@ -30,9 +30,12 @@ This API can be used for educational purposes or as a foundation for more comple
    git clone https://github.com/Raki1432/GO-MOVIE-CRUD.git
 
 2.   Navigate to the project directory:
+    ```bash
      d GO-MOVIE-CRUD
 3.  Install dependencies:
+    ```bash
      go mod tidy
 4.   Run the application:
+     ```bash
      go run main.go
      
